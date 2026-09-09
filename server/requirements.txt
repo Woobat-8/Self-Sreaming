@@ -1,0 +1,2 @@
+# PLACEHOLDER — not a real pip requirements file yet (Plan.md §3.2).
+# Replace with FastAPI, uvicorn, and other server dependencies when scaffolding starts.

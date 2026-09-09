@@ -1,0 +1,3 @@
+Placeholder for server/app/routers/ (Plan.md §3.2).
+
+Auth, library, media, and admin route modules will live here.

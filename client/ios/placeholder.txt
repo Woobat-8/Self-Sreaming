@@ -1,0 +1,3 @@
+Placeholder for client/ios/ (Plan.md §3.2).
+
+Flutter iOS platform project. Present for later; not a Phase 1 ship target.

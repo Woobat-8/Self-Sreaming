@@ -1,0 +1,3 @@
+Placeholder for server/docker-compose.yml (Plan.md §3.2).
+
+Will run the backend (and Caddy if composed here) with media/data volume mounts.

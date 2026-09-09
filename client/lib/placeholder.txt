@@ -1,0 +1,3 @@
+Placeholder for client/lib/ (Plan.md §3.2).
+
+Flutter Dart sources will live here (ui/, data/, download/, player/).

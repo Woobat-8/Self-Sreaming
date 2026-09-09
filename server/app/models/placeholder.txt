@@ -1,0 +1,3 @@
+Placeholder for server/app/models/ (Plan.md §3.2).
+
+SQLite / ORM models (users, media items, tokens) will live here.

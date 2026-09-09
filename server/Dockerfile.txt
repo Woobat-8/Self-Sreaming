@@ -1,0 +1,3 @@
+Placeholder for server/Dockerfile (Plan.md §3.2).
+
+Will containerize the FastAPI backend (include ffmpeg for scan/thumbnails).

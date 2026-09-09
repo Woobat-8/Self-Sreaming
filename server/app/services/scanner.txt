@@ -1,0 +1,3 @@
+Placeholder for server/app/services/scanner.py (Plan.md §3.2).
+
+Media scanner: allowed types, playable flag, thumbnails, optional MP4 fast-start remux.
