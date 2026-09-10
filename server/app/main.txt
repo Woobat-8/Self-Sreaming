@@ -1,3 +1,0 @@
-Placeholder for server/app/main.py (Plan.md §3.2).
-
-FastAPI entrypoint.

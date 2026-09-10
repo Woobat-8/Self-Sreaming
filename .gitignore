@@ -1,3 +1,16 @@
 *.md
 !README.md
 !Plan.md
+!docs/SETUP.md
+
+# Server
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+server/data/
+server/library/
+*.db
+.mypy_cache/

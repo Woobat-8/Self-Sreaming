@@ -1,0 +1,9 @@
+data
+library
+.venv
+venv
+__pycache__
+.pytest_cache
+.env
+tests
+*.pyc
