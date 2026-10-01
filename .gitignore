@@ -1,7 +1,7 @@
 *.md
 !README.md
 !Plan.md
-!docs/SETUP.md
+!docs/SETUP*.md
 
 # Server
 .env

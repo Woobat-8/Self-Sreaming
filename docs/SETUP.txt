@@ -1,3 +1,0 @@
-Placeholder for docs/SETUP.md (Plan.md §3.2).
-
-Will document Ubuntu setup, domain, Cloudflare Tunnel, storage mount, and first-run.
