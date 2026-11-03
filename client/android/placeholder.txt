@@ -1,3 +1,0 @@
-Placeholder for client/android/ (Plan.md §3.2).
-
-Flutter Android platform project. Phase 1 ship target.
